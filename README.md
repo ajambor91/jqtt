@@ -40,6 +40,8 @@ Run broker:
 
 ### Short-Term Goals
 
+* Performance optimization
+
 * Refactor message routing implementation
 
 * Unit/integration testing framework
